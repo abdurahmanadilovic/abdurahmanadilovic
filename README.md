@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdurahmanadilovic
-- 👀 I’m interested in creating awesome mobile apps
+- 👀 10+ years with Android
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
 
